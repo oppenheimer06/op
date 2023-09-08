@@ -185,6 +185,26 @@ h1{
     .image-div{
         padding-left: 0px;
     }
+    .h3{
+        font-size: 4rem;
+        
+    }
+    .para{
+        font-size: 1.8rem;
+    }
+    .press-image{
+        width: 43%;
+        height: 6rem;
+    }
+    .testimonial-image{
+        width: 20%;
+    }
+    .newyork{
+        font-size: 1.3rem;
+    }
+    .pricing-para{
+        font-size: 1.4rem;
+    }
 }
 
 
