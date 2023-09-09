@@ -187,7 +187,7 @@ p{
         transform: rotate(0);
         position: static;
     }
-    #title container-fluid{
+    #title .container-fluid{
         text-align: center;
     }
     .image-div{
